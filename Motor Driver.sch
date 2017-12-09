@@ -1379,12 +1379,12 @@ Wire Wire Line
 Wire Wire Line
 	2650 4600 2650 4750
 $Comp
-L Conn_02x02_Odd_Even J?
+L Conn_02x02_Odd_Even J6
 U 1 1 5A2BF2DE
 P 6150 3450
-F 0 "J?" H 6200 3550 50  0000 C CNN
+F 0 "J6" H 6200 3550 50  0000 C CNN
 F 1 "Conn_02x02_Odd_Even" H 6200 3250 50  0000 C CNN
-F 2 "" H 6150 3450 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x02_Pitch2.54mm" H 6150 3450 50  0001 C CNN
 F 3 "" H 6150 3450 50  0001 C CNN
 	1    6150 3450
 	0    1    1    0   
