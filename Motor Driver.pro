@@ -1,4 +1,4 @@
-update=11/25/17 09:07:20
+update=12/19/17 13:35:44
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -62,3 +60,5 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=C:/Users/malha/Documents/KiCad Pro/Mosfet Driver/H Bridge IR2104-cache
+[general]
+version=1
